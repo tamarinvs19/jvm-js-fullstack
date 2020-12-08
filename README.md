@@ -10,4 +10,4 @@ This repository is the code corresponding to the hands-on lab [Building a Full S
 ## My features
 * "Clear" button
 * Counter of items
-* Deadline property: the first date (`dd-mm-yyyy`) is transformed into deadline date. Deadline has a color: red if now > deadline, orange if deadline - now <= 1 day, else - green.
+* Deadline property: the first date (`dd-mm-yyyy`) in the input field is transformed into deadline date. Deadline has a color: red if now > deadline, orange if deadline - now <= 1 day, else - green.
